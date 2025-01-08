@@ -12,6 +12,9 @@
 **!set_birthday ДД.ММ.ГГГГ** - Устанавливает день рождения пользователя который отправил команду\
 **!list** - Список всех дне рождений который имеются в базе
 
+**Установка необходимых библиотек:**\
+``pip install -r requirements.txt``
+
 ## English
 Discord is a bot that notifies all users about an upcoming birthday on a given day.
 
@@ -23,3 +26,6 @@ Discord is a bot that notifies all users about an upcoming birthday on a given d
 **Commands:**\
 **!set_birthday ДД.ММ.ГГГГ** - Sets the birthday of the user who sent the command\
 **!list** - A list of all the birthdays that are available in the database
+
+**Installing the necessary libraries:**\
+``pip install -r requirements.txt``
